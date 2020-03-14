@@ -11,6 +11,10 @@ without giving access to your s3 buckets.
 FilesNow itself cleans it's downloaded presentable
 files, as such maintainig a healthy file system
 
+![WebUI](https://github.com/Jackuna/django-filesnow/blob/master/filesnow_WEBUI.png)
+![WebUIgif](https://github.com/Jackuna/django-filesnow/blob/master/WebUI.gif)
+
+
 Dependecies
 -----------
 AWS Boto3 Framework : pip install boto3
